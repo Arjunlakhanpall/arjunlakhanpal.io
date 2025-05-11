@@ -33,7 +33,7 @@ I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine L
 
 ## 🛠️ Projects
 ### 🔹 Particle Identification using CERN Open Data
-- Utilized CERN Open Data to classify particles (electrons, muons, pions) using energy loss (dE/dx), calorimeter signatures, and ML-based techniques.  
+- Utilized Open Data to classify particles (electrons, muons, pions) using energy loss (dE/dx), calorimeter signatures, and ML-based techniques.  
 - Strengthened expertise in AI applications for high-energy physics.  
 - **Technologies**: Python, Machine Learning, Neural Networks, Open Data
 
