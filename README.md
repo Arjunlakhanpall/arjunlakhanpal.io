@@ -84,24 +84,24 @@ A web application for real-time cab booking, allowing users to select pick-up an
 ## 1. Neural Learning and Deep Learning by Deeplearning.ai  
 **Issued:** Apr 2025 · **Expires:** Dec 2035  
 **Skills:** Artificial Intelligence (AI), Deep Learning, Reinforcement Learning, Neural Networks  
-**Certification Path:** Deeplearning.ai
+**Certification :** Deeplearning.ai
 
 ## 2. Building an AI-Powered Game by Deeplearning.ai  
 **Issued:** Apr 2025 · **Expires:** Dec 2035  
 **Skills:** Artificial Intelligence (AI), Game Development, Reinforcement Learning  
-**Certification Path:** Deeplearning.ai
+**Certification :** Deeplearning.ai
 
 ## 3. Open Source Models with Hugging Face by Deeplearning.ai  
 **Issued:** Apr 2025  
 **Skills:** Open-Source Models, AI Tasks with Transformers, Natural Language Processing (NLP), Audio Processing, Image & Multimodal Tasks, Deploying AI Applications  
-**Certification Path:** Deeplearning.ai
+**Certification :** Deeplearning.ai
 
 ## 4. Machine Learning by Udemy  
 **Issued:** May 2024  
 **Skills:** Machine Learning Algorithms, Data Processing, Model Evaluation  
-**Certification Path:** Udemy
+**Certification :** Udemy
 
 ## 5. Machine Learning by FreeCodeCamp  
 **Issued:** May 2024  
 **Skills:** Machine Learning, Data Science, Supervised & Unsupervised Learning  
-**Certification Path:** FreeCodeCamp
+**Certification :** FreeCodeCamp
