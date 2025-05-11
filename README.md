@@ -18,7 +18,7 @@ The ECE curriculum honed my understanding of signal processing, embedded systems
 ## 💼 Experience
 
 ### Intern – AICTE IDEA Lab  
-📍 New Delhi, India | 🗓 June 2024 – Aug 2024
+📍 New Delhi, India |  June 2024 – Aug 2024
 
 Contributed to AI research projects in education and healthcare by building robust ML pipelines and intelligent systems.
 
@@ -33,43 +33,29 @@ Contributed to AI research projects in education and healthcare by building robu
   
 ---
 
-
 ## 🛠️ Projects ### 
-🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition  
-Advanced image processing system to restore low-quality images using Haar Wavelet Transform.  
+### 🔹 Particle Identification using CERN Open Data
+I utilized data from the CERN Open Data Portal to distinguish particles such as electrons, muons, and pions. By employing techniques like energy loss (dE/dx), calorimeter signatures, and ML-based classification, I gained a deeper understanding of AI’s role in high-energy physics. This experience has motivated me to contribute to CERN’s groundbreaking work.
+**Technologies**: Python, Machine Learning, Neural Learning, Open Data.
+
+###🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition  
+An advanced image processing system that restores low-quality images using Haar Wavelet Transform. It decomposes the image into frequency sub-bands, denoises high-frequency components, and enhances details. Finally, it reconstructs a cleaner, sharper image using inverse wavelet transformation.
 **Technologies**: Python, OpenCV, NumPy  
 ---
-
 ### 🔹 Iris Flower Classification  
-Supervised ML system to classify iris species using KNN, SVM, and Random Forest.  
+Supervised ML project to classify iris species (Setosa, Versicolor, Virginica) using features like sepal and petal dimensions. Implemented and compared KNN, SVM, and Random Forest classifiers for high-accuracy prediction.
 **Technologies**: Python, Scikit-learn, Pandas, Matplotlib  
 ---
-
 ### 🔹 Invoice App  
-Full-stack invoicing platform for small businesses with tax, client management, and digital payment tracking.  
-**Technologies**: JavaScript, Node.js, Express, MongoDB  
+A full-stack invoicing platform designed for small businesses, enabling tax calculation, client management, and digital payment tracking.**Technologies**: JavaScript, Node.js, Express, MongoDB  
 ---
-
 ### 🔹 Solana Blockchain Transaction Demo  
-Smart contract implementation using Rust on the Solana blockchain for secure token transactions.  
-**Technologies**: Rust, Solana SDK  
+A comprehensive invoicing platform for small businesses to manage client details, calculate taxes, and track digital payments.**Technologies**: Rust, Solana SDK  
 ---
-
 ### 🔹 GoRide – Cab Booking Platform  
-Web app for real-time cab booking with route mapping and fare calculation.  
+A web application for real-time cab booking, allowing users to select pick-up and drop-off locations. Includes route mapping for optimal travel paths and automatic fare calculation based on distance. Built with JavaScript, HTML, CSS, and Handlebars for a seamless and interactive user experience. Provides secure booking and payment integration for users and drivers.
 **Technologies**: JavaScript, Node.js, Handlebars, HTML, CSS  
 ---
-
-### 🔹 Email Alerts on WhatsApp  
-Integration of WhatsApp Business API with email for real-time alerts.  
-**Technologies**: Node.js, JavaScript, Twilio API  
----
-
-### 🔹 QR Code Generator  
-Utility for secure data sharing via scannable QR codes.  
-**Technologies**: Python, qrcode, Pillow  
----
-
 ## 🔬 Research (In Progress)
 
 - **Iris Flower Classification**: Enhancing with ensemble learning and deep learning hybrids.  
