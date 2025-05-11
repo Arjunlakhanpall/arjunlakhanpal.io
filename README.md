@@ -2,7 +2,7 @@
 
 > "When something is important enough, you do it even if the odds are not in your favor." – Elon Musk
 
-I’m a **BTech** student pursuing **Electronics and Communication Engineering (ECE)** with a minor in **Computer Science** at **BPIT GGSIPU, Delhi**. My passion for technology, particularly **Artificial Intelligence (AI)** and **Machine Learning (ML)**, drives my academic and personal endeavors. With a curious mindset and a love for problem-solving, I enjoy exploring how machines can mimic human intelligence to create impactful solutions. Outside of academics, I’m dedicated to continuous learning and experimenting with new tools to push the boundaries of what technology can achieve.
+I’m a **BTech** student pursuing **Electronics and Communication Engineering (ECE)** with a minor in **Computer Science** at **BPIT GGSIPU, INDIA**. My passion for technology, particularly **Artificial Intelligence (AI)** and **Machine Learning (ML)**, drives my academic and personal endeavors. With a curious mindset and a love for problem-solving, I enjoy exploring how machines can mimic human intelligence to create impactful solutions. Outside of academics, I’m dedicated to continuous learning and experimenting with new tools to push the boundaries of what technology can achieve.
 
 My career focuses on leveraging **Python**, **JavaScript**, **Go**, and frameworks like **TensorFlow**, **Flask**, **Django**, and **NodeJS** to build innovative projects. A key project, the **Saline Level Detector** at the **AICTE IDEA Lab**, uses **AI-based image processing** to monitor hospital saline levels, improving patient care ([GitHub](https://github.com/Arjunlakhanpall/Saline-Level-Detector-Project)). Other projects, including **Image Enhancement & Denoising**, **Iris Flower Classification**, **Invoice App**, **Solana Transaction**, **GoRide**, **Email Alerts on WhatsApp**, and **QR Code Generator**, have honed my skills in **AI**, **ML**, **image processing**, **blockchain**, **web development**, and **automation**. I’m excited to contribute to the future of **AI** and **ML**, driven by relentless curiosity and a commitment to innovation.
 
@@ -30,12 +30,12 @@ Contributed to AI research projects in education and healthcare by building robu
   - Real-time fluid level detection in saline bottles.
   - Integrated Raspberry Pi with sensors and Flask-based alert system.
   - Improved patient care by reducing manual monitoring.
-- *Technologies*: Arduno, Python, OpenCV, Raspberry Pi, Flask
+- **Technologies** : Arduno, Python, OpenCV, Raspberry Pi, Flask
 ---
 
-## 🛠️ Projects
 
-### 🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition  
+## 🛠️ Projects ### 
+🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition  
 Advanced image processing system to restore low-quality images using Haar Wavelet Transform.  
 **Technologies**: Python, OpenCV, NumPy  
 ---
@@ -43,7 +43,6 @@ Advanced image processing system to restore low-quality images using Haar Wavele
 ### 🔹 Iris Flower Classification  
 Supervised ML system to classify iris species using KNN, SVM, and Random Forest.  
 **Technologies**: Python, Scikit-learn, Pandas, Matplotlib  
-
 ---
 
 ### 🔹 Invoice App  
