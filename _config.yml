@@ -1,12 +1,19 @@
 title: Arjun Lakhanpal
 logo: /arjun.png  # Reference the image directly from the root folder
-description: AIML Engineer
+description: AI/ML Engineer
 
 theme: jekyll-theme-minimal
 
-# Social links
+# Social links with clickable usernames
 github: https://github.com/Arjunlakhanpall
 linkedin: https://www.linkedin.com/in/arjunlakhanpall/
 website: https://arjunlakhanpall.github.io/arjunlakhanpal.io/
 
-
+# Optional section for usernames (you can link them in index.md)
+social_links:
+  - name: GitHub
+    url: https://github.com/Arjunlakhanpall
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/arjunlakhanpall/
+  - name: Website
+    url: https://arjunlakhanpall.github.io/arjunlakhanpal.io/
