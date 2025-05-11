@@ -1,7 +1,9 @@
 title: Arjun Lakhanpal
 theme: jekyll-theme-minimal
-social:
-  github: Arjunlakhanpall
-  linkedin: arjunlakhanpall
-  email: lakhanpxl.arjun@gmail.com
-  twitter: ArjxnLakhanpxl
+
+# Social Links
+social_links:
+  email: "mailto:lakhanpxl.arjun@gmail.com"
+  linkedin: "https://www.linkedin.com/in/arjunlakhanpall/"
+  x: "https://x.com/Arjxnlakhanpxl"
+  github: "https://github.com/Arjunlakhanpall"
