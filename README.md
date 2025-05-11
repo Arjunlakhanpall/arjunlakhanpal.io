@@ -2,9 +2,9 @@
 
 > "When something is important enough, you do it even if the odds are not in your favor." – Elon Musk
 
-I’m a **BTech** student pursuing **Electronics and Communication Engineering (ECE)** with a minor in **Computer Science** at **BPIT GGSIPU, INDIA**. My passion for technology, particularly **Artificial Intelligence (AI)** and **Machine Learning (ML)**, drives my academic and personal endeavors. With a curious mindset and a love for problem-solving, I enjoy exploring how machines can mimic human intelligence to create impactful solutions. Outside of academics, I’m dedicated to continuous learning and experimenting with new tools to push the boundaries of what technology can achieve.
+I’ve always been fascinated by the potential of AI and ML to revolutionize industries and improve everyday life. The ability to design systems that can learn, adapt, and solve complex problems is incredibly motivating for me. What excites me most about AI and ML is their vast scope, ranging from healthcare to autonomous vehicles, and the endless possibilities they offer for innovation. The challenge of creating algorithms that can interpret data, make predictions, and optimize processes aligns perfectly with my passion for problem-solving. I find immense satisfaction in working at the intersection of technology and human progress, where every breakthrough can contribute to shaping a smarter, more efficient future.
 
-My career focuses on leveraging **Python**, **JavaScript**, **Go**, and frameworks like **TensorFlow**, **Flask**, **Django**, and **NodeJS** to build innovative projects. A key project, the **Saline Level Detector** at the **AICTE IDEA Lab**, uses **AI-based image processing** to monitor hospital saline levels, improving patient care ([GitHub](https://github.com/Arjunlakhanpall/Saline-Level-Detector-Project)). Other projects, including **Image Enhancement & Denoising**, **Iris Flower Classification**, **Invoice App**, **Solana Transaction**, **GoRide**, **Email Alerts on WhatsApp**, and **QR Code Generator**, have honed my skills in **AI**, **ML**, **image processing**, **blockchain**, **web development**, and **automation**. I’m excited to contribute to the future of **AI** and **ML**, driven by relentless curiosity and a commitment to innovation.
+
 
 ## 🎓 Education
 
@@ -36,10 +36,12 @@ Contributed to AI research projects in education and healthcare by building robu
 ## 🛠️ Projects ### 
 ### 🔹 Particle Identification using CERN Open Data
 I utilized data from the CERN Open Data Portal to distinguish particles such as electrons, muons, and pions. By employing techniques like energy loss (dE/dx), calorimeter signatures, and ML-based classification, I gained a deeper understanding of AI’s role in high-energy physics. This experience has motivated me to contribute to CERN’s groundbreaking work.
+
 **Technologies**: Python, Machine Learning, Neural Learning, Open Data.
 
 ### 🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition  
 An advanced image processing system that restores low-quality images using Haar Wavelet Transform. It decomposes the image into frequency sub-bands, denoises high-frequency components, and enhances details. Finally, it reconstructs a cleaner, sharper image using inverse wavelet transformation.
+
 **Technologies**: Python, OpenCV, NumPy  
 
 ### 🔹 Iris Flower Classification  
@@ -47,10 +49,12 @@ Supervised ML project to classify iris species (Setosa, Versicolor, Virginica) u
 **Technologies**: Python, Scikit-learn, Pandas, Matplotlib  
 
 ### 🔹 Invoice App  
-A full-stack invoicing platform designed for small businesses, enabling tax calculation, client management, and digital payment tracking.**Technologies**: JavaScript, Node.js, Express, MongoDB  
+A full-stack invoicing platform designed for small businesses, enabling tax calculation, client management, and digital payment tracking.
+**Technologies**: JavaScript, Node.js, Express, MongoDB  
 
-### 🔹 Solana Blockchain Transaction Demo  
+### 🔹 Solana Blockchain Transaction   
 A comprehensive invoicing platform for small businesses to manage client details, calculate taxes, and track digital payments.
+
 **Technologies**: Rust, Solana SDK  
 
 ### 🔹 GoRide – Cab Booking Platform  
@@ -76,3 +80,29 @@ A web application for real-time cab booking, allowing users to select pick-up an
 **Environments**: Windows,  Web
 
 ---
+# Certifications
+## 1. Neural Learning and Deep Learning by Deeplearning.ai  
+**Issued:** Apr 2025 · **Expires:** Dec 2035  
+**Skills:** Artificial Intelligence (AI), Deep Learning, Reinforcement Learning, Neural Networks  
+[Show Credential](https://www.deeplearning.ai/certificate/xyz)
+---
+## 2. Building an AI-Powered Game by Deeplearning.ai  
+**Issued:** Apr 2025 · **Expires:** Dec 2035  
+**Skills:** Artificial Intelligence (AI), Game Development, Reinforcement Learning  
+[Show Credential](https://www.deeplearning.ai/certificate/abc)
+---
+## 3. Open Source Models with Hugging Face by Deeplearning.ai  
+**Issued:** Apr 2025  
+**Skills:** Open-Source Models, AI Tasks with Transformers, Natural Language Processing (NLP), Audio Processing, Image & Multimodal Tasks, Deploying AI Applications  
+[Show Credential](https://www.deeplearning.ai/certificate/def)
+---
+## 4. Machine Learning by Udemy  
+**Issued:** May 2024  
+**Skills:** Machine Learning Algorithms, Data Processing, Model Evaluation  
+[Show Credential](https://www.udemy.com/certificate/ghi)
+---
+## 5. Machine Learning by FreeCodeCamp  
+**Issued:** May 2024  
+**Skills:** Machine Learning, Data Science, Supervised & Unsupervised Learning  
+[Show Credential](https://www.freecodecamp.org/certificate/jkl)
+
