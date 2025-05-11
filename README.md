@@ -38,31 +38,32 @@ Contributed to AI research projects in education and healthcare by building robu
 I utilized data from the CERN Open Data Portal to distinguish particles such as electrons, muons, and pions. By employing techniques like energy loss (dE/dx), calorimeter signatures, and ML-based classification, I gained a deeper understanding of AI’s role in high-energy physics. This experience has motivated me to contribute to CERN’s groundbreaking work.
 **Technologies**: Python, Machine Learning, Neural Learning, Open Data.
 
-###🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition  
+### 🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition  
 An advanced image processing system that restores low-quality images using Haar Wavelet Transform. It decomposes the image into frequency sub-bands, denoises high-frequency components, and enhances details. Finally, it reconstructs a cleaner, sharper image using inverse wavelet transformation.
 **Technologies**: Python, OpenCV, NumPy  
----
+
 ### 🔹 Iris Flower Classification  
 Supervised ML project to classify iris species (Setosa, Versicolor, Virginica) using features like sepal and petal dimensions. Implemented and compared KNN, SVM, and Random Forest classifiers for high-accuracy prediction.
 **Technologies**: Python, Scikit-learn, Pandas, Matplotlib  
----
+
 ### 🔹 Invoice App  
 A full-stack invoicing platform designed for small businesses, enabling tax calculation, client management, and digital payment tracking.**Technologies**: JavaScript, Node.js, Express, MongoDB  
----
+
 ### 🔹 Solana Blockchain Transaction Demo  
-A comprehensive invoicing platform for small businesses to manage client details, calculate taxes, and track digital payments.**Technologies**: Rust, Solana SDK  
----
+A comprehensive invoicing platform for small businesses to manage client details, calculate taxes, and track digital payments.
+**Technologies**: Rust, Solana SDK  
+
 ### 🔹 GoRide – Cab Booking Platform  
 A web application for real-time cab booking, allowing users to select pick-up and drop-off locations. Includes route mapping for optimal travel paths and automatic fare calculation based on distance. Built with JavaScript, HTML, CSS, and Handlebars for a seamless and interactive user experience. Provides secure booking and payment integration for users and drivers.
 **Technologies**: JavaScript, Node.js, Handlebars, HTML, CSS  
----
+
 ## 🔬 Research (In Progress)
 
 - **Iris Flower Classification**: Enhancing with ensemble learning and deep learning hybrids.  
 - **Brain Tumor Detection**: CNN-based models for early detection from medical scans.  
 - **Predictive Maintenance in IIoT**: Anomaly detection in sensor data to reduce machine downtime.
 
----
+
 
 ## 🧠 Skills & Technologies
 
