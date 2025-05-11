@@ -4,16 +4,15 @@ description: AI/ML Engineer
 
 theme: jekyll-theme-minimal
 
-# Social links with clickable usernames
-github: https://github.com/Arjunlakhanpall
-linkedin: https://www.linkedin.com/in/arjunlakhanpall/
-website: https://arjunlakhanpall.github.io/arjunlakhanpal.io/
+github: Arjunlakhanpall
+linkedin: arjunlakhanpall
+website: arjunlakhanpall.github.io/arjunlakhanpal.io
 
-# Optional section for usernames (you can link them in index.md)
-social_links:
-  - name: GitHub
-    url: https://github.com/Arjunlakhanpall
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/arjunlakhanpall/
-  - name: Website
-    url: https://arjunlakhanpall.github.io/arjunlakhanpal.io/
+location:
+  country: India
+  state: Delhi
+  city: New Delhi
+  time_zone: 13:59 (UTC +05:30)
+
+about_me: https://about.me/arjunlakhanpall
+linkedin_profile: https://www.linkedin.com/in/arjunlakhanpall/
