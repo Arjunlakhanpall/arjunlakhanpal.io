@@ -105,3 +105,12 @@ A web application for real-time cab booking, allowing users to select pick-up an
 **Issued:** May 2024  
 **Skills:** Machine Learning, Data Science, Supervised & Unsupervised Learning  
 **Certification :** FreeCodeCamp
+
+
+## 📬 Contact Me
+Feel free to reach out if you want to connect, collaborate, or discuss AI/ML innovations!
+
+**Email:** [lakhanpxl.arjun@gmail.com](mailto:lakhanpxl.arjun@gmail.com)  
+**LinkedIn:** [Arjun Lakhanpal](https://www.linkedin.com/in/arjunlakhanpall/)  
+**X:** [@Arjxnlakhanpxl](https://x.com/Arjxnlakhanpxl)  
+
