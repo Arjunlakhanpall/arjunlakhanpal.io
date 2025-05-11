@@ -1,9 +1,11 @@
 title: Arjun Lakhanpal
 theme: jekyll-theme-minimal
 
-# Social Links
-social_links:
-  email: "mailto:lakhanpxl.arjun@gmail.com"
+# Personal Information
+personal_info:
+  email: "lakhanpxl.arjun@gmail.com"
   linkedin: "https://www.linkedin.com/in/arjunlakhanpall/"
   x: "https://x.com/Arjxnlakhanpxl"
   github: "https://github.com/Arjunlakhanpall"
+  country: "India"
+  state: "Delhi"
