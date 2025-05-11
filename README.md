@@ -1,4 +1,5 @@
 # Arjun Lakhanpal
+![My Photo](images/myphoto.jpg)
 
 🎓 BTech in Electronics and Communication Engineering @ GGSIPU (BPIT Delhi)  
 🎯 Minor Specialization in Computer Science  
