@@ -19,14 +19,17 @@
 
 ---
 
-## 📊 Projects
+## 🚀 My Projects
 
-- **GoRide**: Cab service application built with TS, JS, HTML, CSS, Handlebars  
-- **Stamp Recognition App**: Google Cloud Vision API + TensorFlow for stamp detection & pricing  
-- **Saline Level Detector**: Embedded healthcare project for hospitals  
-- **Stock Price Prediction**: ML-based forecasting  
-- **Sudoku Solver**: AI-based Sudoku player and generator  
-- **Email Delivery System**: Retry logic, fallback mechanism, rate limiting, and status tracking
+Click to jump to project details:
+
+- [🔗 GoRide](#goride--cab-service-app) - A cab service app for booking and tracking rides.
+- [🔗 Stamp Recognition](#stamp-recognition--ai--vision-api) - AI-based stamp recognition and classification using Google's Vision API.
+- [🔗 Saline Level Detector](#saline-level-detector--healthcare-iot) - IoT-based saline level monitoring system for healthcare.
+- [🔗 Sudoku Solver](#sudoku-solver--ai-grid-player) - AI-powered solver for Sudoku puzzles of any difficulty.
+- [🔗 Stock Price Prediction](#stock-price-prediction--ml) - Machine learning model for predicting stock prices.
+- [🔗 Email Delivery System](#email-delivery-system--resilient-microservice) - A resilient microservice for reliable email delivery.
+- [🔗 Particle Identification](#particle-identification--physics-ml) - Machine learning-based particle identification for physics research.
 
 ---
 
