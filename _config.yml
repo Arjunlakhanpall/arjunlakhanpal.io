@@ -1,2 +1,8 @@
 title: Arjun Lakhanpal
 theme: jekyll-theme-minimal
+description: "A brief description of your site"
+url: "https://arjunlakhanpall.github.io/arjunlakhanpal.io/"
+baseurl: ""
+author:
+  name: "Arjun Lakhanpal"
+  email: "lakhanpxl.arjun@gmail.com"
