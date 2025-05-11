@@ -1,14 +1,7 @@
 title: Arjun Lakhanpal
 theme: jekyll-theme-minimal
-title: Arjun Lakhanpal
-author:
-  name: Arjun Lakhanpal
-  email: lakhanpxl.arjun@gmail.com
-
-theme: minima
-
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/Arjunlakhanpall" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/arjunlakhanpall/" }
-    - { platform: email,   user_url: "mailto:lakhanpxl.arjun@gmail.com" }
+social:
+  github: 🐙 Arjunlakhanpall
+  linkedin: 💼 arjunlakhanpall
+  email: ✉️ lakhanpxl.arjun@gmail.com
+  twitter: 🐦 ArjxnLakhanpxl
