@@ -79,30 +79,29 @@ A web application for real-time cab booking, allowing users to select pick-up an
 **Specializations**: Generative AI (GenAI), Natural Language Processing (NLP), Large Language Models (LLMs)  
 **Environments**: Windows,  Web
 
----
 # Certifications
+
 ## 1. Neural Learning and Deep Learning by Deeplearning.ai  
 **Issued:** Apr 2025 · **Expires:** Dec 2035  
 **Skills:** Artificial Intelligence (AI), Deep Learning, Reinforcement Learning, Neural Networks  
-[Show Credential](https://www.deeplearning.ai/certificate/xyz)
----
+**Certification Path:** Deeplearning.ai
+
 ## 2. Building an AI-Powered Game by Deeplearning.ai  
 **Issued:** Apr 2025 · **Expires:** Dec 2035  
 **Skills:** Artificial Intelligence (AI), Game Development, Reinforcement Learning  
-[Show Credential](https://www.deeplearning.ai/certificate/abc)
----
+**Certification Path:** Deeplearning.ai
+
 ## 3. Open Source Models with Hugging Face by Deeplearning.ai  
 **Issued:** Apr 2025  
 **Skills:** Open-Source Models, AI Tasks with Transformers, Natural Language Processing (NLP), Audio Processing, Image & Multimodal Tasks, Deploying AI Applications  
-[Show Credential](https://www.deeplearning.ai/certificate/def)
----
+**Certification Path:** Deeplearning.ai
+
 ## 4. Machine Learning by Udemy  
 **Issued:** May 2024  
 **Skills:** Machine Learning Algorithms, Data Processing, Model Evaluation  
-[Show Credential](https://www.udemy.com/certificate/ghi)
----
+**Certification Path:** Udemy
+
 ## 5. Machine Learning by FreeCodeCamp  
 **Issued:** May 2024  
 **Skills:** Machine Learning, Data Science, Supervised & Unsupervised Learning  
-[Show Credential](https://www.freecodecamp.org/certificate/jkl)
-
+**Certification Path:** FreeCodeCamp
