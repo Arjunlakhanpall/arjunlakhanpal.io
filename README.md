@@ -31,6 +31,8 @@ Contributed to AI research projects in education and healthcare by building robu
   - Integrated Raspberry Pi with sensors and Flask-based alert system.
   - Improved patient care by reducing manual monitoring.
 - Technologies : Arduno, Python, OpenCV, Raspberry Pi, Flask
+
+  
 ---
 
 
