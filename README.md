@@ -59,7 +59,7 @@ I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine L
 
 ---
 
-## 🔬 Research (In Progress)
+## 🔬 Research 
 - **Iris Flower Classification**: Exploring ensemble learning and deep learning hybrids for improved accuracy.  
 - **Brain Tumor Detection**: Developing CNN-based models for early detection from medical scans.  
 - **Predictive Maintenance in IIoT**: Building anomaly detection models for sensor data to minimize machine downtime.
