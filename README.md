@@ -68,7 +68,7 @@ I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine L
 
 ## 🧠 Skills & Technologies
 - **Programming Languages**: Python, JavaScript, Java, SQL  
-- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, XGBoost, Transformers  
+- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, XGBoost  
 - **Web & Backend**: Node.js, Flask, Django, Express.js, React.js  
 - **Image Processing**: OpenCV, PIL  
 - **Tools & Platforms**: Docker, Git, Google Colab, GCP  
@@ -82,11 +82,11 @@ I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine L
   *Skills*: AI, Deep Learning, Reinforcement Learning, Neural Networks  
 - **Building an AI-Powered Game** – Deeplearning.ai (Apr 2025)  
   *Skills*: AI, Game Development, Reinforcement Learning  
-- **Open Source Models with Hugging Face** – Deeplearning.ai (Apr 2025)  
+- **Open Source with Hugging Face** – Deeplearning.ai (Apr 2025)  
   *Skills*: Open-Source Models, NLP, Audio Processing, Image & Multimodal Tasks  
-- **Machine Learning** – Udemy (May 2024)  
+- **Machine Learning : AI, Python & R** – Udemy (May 2024)  
   *Skills*: ML Algorithms, Data Processing, Model Evaluation  
-- **Machine Learning** – FreeCodeCamp (May 2024)  
+- **Machine Learning with Python** – FreeCodeCamp (May 2024)  
   *Skills*: ML, Data Science, Supervised & Unsupervised Learning  
 
 ---
