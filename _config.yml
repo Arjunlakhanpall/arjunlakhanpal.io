@@ -2,8 +2,6 @@ title: Arjun Lakhanpal
 logo: /arjun.png  # Reference the image directly from the root folder
 description: AI/ML Engineer
 
-theme: jekyll-theme-minimal
-
 github: Arjunlakhanpall
 linkedin: arjunlakhanpall
 website: arjunlakhanpall.github.io/arjunlakhanpal.io
@@ -16,3 +14,6 @@ location:
 
 about_me: https://about.me/arjunlakhanpall
 linkedin_profile: https://www.linkedin.com/in/arjunlakhanpall/
+
+
+theme: jekyll-theme-minimal
