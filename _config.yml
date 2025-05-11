@@ -1,19 +1,8 @@
 title: Arjun Lakhanpal
-logo: /arjun.png  # Reference the image directly from the root folder
-description: AI/ML Engineer
-
-github: Arjunlakhanpall
-linkedin: arjunlakhanpall
-website: arjunlakhanpall.github.io/arjunlakhanpal.io
-
-location:
-  country: India
-  state: Delhi
-  city: New Delhi
-  time_zone: 13:59 (UTC +05:30)
-
-about_me: https://about.me/arjunlakhanpall
-linkedin_profile: https://www.linkedin.com/in/arjunlakhanpall/
-
+logo: /arjun1.jpg  # Reference the image directly from the root folder
+description: |
+  AI/ML Engineer | GitHub: @Arjunlakhanpall | LinkedIn: @arjunlakhanpall | Website: arjunlakhanpall.github.io/arjunlakhanpal.io
+  Location: India, Delhi, New Delhi | Time Zone: 13:59 (UTC +05:30)
+  About Me: [about.me/arjunlakhanpall](https://about.me/arjunlakhanpall) | LinkedIn Profile: [in/arjunlakhanpall](https://www.linkedin.com/in/arjunlakhanpall/)
 
 theme: jekyll-theme-minimal
