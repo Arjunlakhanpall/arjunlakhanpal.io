@@ -1,7 +1,13 @@
 title: Arjun Lakhanpal
 theme: jekyll-theme-minimal
 
-description: >
-  <a href="mailto:lakhanpxl.arjun@gmail.com">✉️ Email</a> |
-  <a href="https://www.linkedin.com/in/arjunlakhanpall/">👔 LinkedIn</a> |
-  <a href="https://github.com/Arjunlakhanpall">💻 GitHub</a>
+social_links:
+  - name: Email
+    url: mailto:lakhanpxl.arjun@gmail.com
+    icon: fas fa-envelope
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/arjunlakhanpall/
+    icon: fab fa-linkedin
+  - name: GitHub
+    url: https://github.com/Arjunlakhanpall
+    icon: fab fa-github
