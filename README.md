@@ -30,8 +30,6 @@ Contributed to AI research projects in education and healthcare by building robu
   - Real-time fluid level detection in saline bottles.
   - Integrated Raspberry Pi with sensors and Flask-based alert system.
   - Improved patient care by reducing manual monitoring.
-- Technologies : Arduno, Python, OpenCV, Raspberry Pi, Flask
-
   
 ---
 
