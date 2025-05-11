@@ -1,5 +1,5 @@
 title: Arjun Lakhanpal
-logo: /assets/images/arjun.png
+logo: /arjun.png  # Reference the image directly from the root folder
 description: AIML Engineer
 
 theme: jekyll-theme-minimal
