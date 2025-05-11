@@ -1,78 +1,15 @@
-# Arjun Lakhanpal
-![My Photo](images/myphoto.jpg)
+# Welcome to My Page!
 
-🎓 BTech in Electronics and Communication Engineering @ GGSIPU (BPIT Delhi)  
-🎯 Minor Specialization in Computer Science  
-💼 Ex-Intern @ AICTE IDEA Lab | SDE Intern @ Dukaan  
-📈 Aspiring AI Engineer | Future Meta Intern | Focused on LLMs & ML  
-🧠 Research: Nuclear & Particle Physics, Brain Tumor Detection, Iris Classification  
-🎮 Building: Metaverse Gaming Platform  
-🚀 Mission: Ironman by 2030
+*“Technology is best when it brings people together.”* – Matt Mullenweg
 
----
+I am **Arjun Lakhanpal**, a passionate and dedicated student currently pursuing my **BTech** in **Electronics and Communication Engineering (ECE)** with a minor in **Computer Science** at **BPIT GGSIPU, Delhi**. My academic journey has always been rooted in my interest in technology, particularly in the fields of **Artificial Intelligence (AI)** and **Machine Learning (ML)**. From the very beginning of my studies, I’ve been deeply fascinated by how machines can be trained to perform tasks that traditionally required human intelligence, and this curiosity has driven much of my academic and extracurricular efforts.
 
-## 🧠 Skills
+As I progress through my **BTech** program, I have cultivated a strong understanding of various programming languages such as **Python**, **JavaScript**, and **Go**, which are essential in the fields of **software development** and **data analysis**. Along with these languages, I have gained hands-on experience in frameworks like **TensorFlow**, **Flask**, **Django**, and **NodeJS**. My focus has always been to leverage these technologies in the **AI** and **ML** domains, where I believe the future of technology lies. These skills have allowed me to experiment with various projects, build prototypes, and explore the vast potential **AI** has in transforming industries and making lives easier.
 
-- **Languages:** Python, JavaScript, Java, C/C++, PHP, Go, SQL, R  
-- **Frameworks & Tools:** TensorFlow, Flask, Django, NodeJS, Redis, MongoDB, MySQL, Kubernetes, Docker, Firebase, GIT, NGINX  
-- **Platforms:** Google Colab, AWS, IBM Cloud, Arduino, Linux  
-- **Soft Skills:** Leadership, Event Management, Time Management, Public Speaking
+One of my most significant academic achievements was my involvement in a project at the **AICTE IDEA Lab**, where I collaborated with my team member, **Samarth Khanna**, also from **GGSIPU**. Together, we developed the **Saline Level Detector for Hospital Management**, which aimed to monitor **saline levels** in patients automatically. This project used **AI-based image processing** to analyze saline levels in real-time, improving the efficiency of **hospital management systems** and enhancing patient care. This experience was invaluable as it allowed me to apply my knowledge in **AI** and **ML** to solve a real-world problem. The project is available on **GitHub**, where I’ve documented our approach and the code. You can find it [here on GitHub](https://github.com/Arjunlakhanpall/Saline-Level-Detector-Project).
 
----
+In addition to this, I have worked on a diverse range of projects, including **Image Enhancement and Denoising with Haar Wavelet Decomposition**, **Iris Flower Classification**, **Invoice App**, **Solana Transaction**, **GoRide**, **Email Alerts on WhatsApp**, **QR Code Generator**, and many more. These projects have given me the opportunity to further hone my skills in **AI**, **ML**, and **software development**, allowing me to experiment with new technologies and solve interesting problems across various domains.
 
-## 🚀 My Projects
+These projects not only helped me improve my **technical skills** but also provided valuable insights into areas such as **image processing**, **machine learning classification**, **blockchain transactions**, **web development**, and **automation**. Working on them allowed me to apply theoretical concepts to **real-world scenarios** and collaborate effectively with others to bring ideas to fruition.
 
-Click to jump to project details:
-
-- [🔗 GoRide](#goride--cab-service-app) - A cab service app for booking and tracking rides.
-- [🔗 Stamp Recognition](#stamp-recognition--ai--vision-api) - AI-based stamp recognition and classification using Google's Vision API.
-- [🔗 Saline Level Detector](#saline-level-detector--healthcare-iot) - IoT-based saline level monitoring system for healthcare.
-- [🔗 Sudoku Solver](#sudoku-solver--ai-grid-player) - AI-powered solver for Sudoku puzzles of any difficulty.
-- [🔗 Stock Price Prediction](#stock-price-prediction--ml) - Machine learning model for predicting stock prices.
-- [🔗 Email Delivery System](#email-delivery-system--resilient-microservice) - A resilient microservice for reliable email delivery.
-- [🔗 Particle Identification](#particle-identification--physics-ml) - Machine learning-based particle identification for physics research.
-
----
-
-## 🧪 Research
-
-- **LiSimPack**: Battery Simulation Library in Python using PyBaMM  
-- **Iris Flower Classification**: ML-powered real-time classifier  
-- **Brain Tumor Detection**: Enhanced using image processing and ML  
-- **Particle & Nuclear Physics**: Working on upcoming research paper
-
----
-
-## 🏆 Certifications
-
-- **Software Engineer** – HackerRank  
-- **Python** – HackerRank  
-- **Machine Learning (AI, Python & R)** – Udemy  
-- **Machine Learning with Python** – freeCodeCamp  
-- **LINUX** – IIT Bombay  
-
----
-
-## 🧑‍🏫 Courses
-
-🎥 [Machine Learning in Hindi: Beginner to Master – Udemy](#)  
-📺 [365code.in – YouTube Channel](https://www.youtube.com/@365codein)
-
----
-
-## 📷 Passion Projects
-
-- **RawLens by Arjun**: Wildlife Photography & Videography Channel  
-- **Interior Design & Tech Business Ventures (Planned)**
-
----
-
-## 📫 Contact
-
-- **Email**: arjunlakhanpal.business@gmail.com  
-- **LinkedIn**: [linkedin.com/in/arjunlakhanpal](https://linkedin.com/in/arjunlakhanpal)  
-- **GitHub**: [github.com/arjunlakhanpal](https://github.com/arjunlakhanpal)  
-
----
-
-🌟 *"I don’t dream of success — I prepare for it daily."*  
+I strongly believe in the quote: *“Innovation is born from hard work and relentless curiosity. The future belongs to those who believe in the beauty of their ideas and the effort it takes to bring them to life.”* This philosophy resonates with me in every aspect of my work. I am excited about the future of **AI** and **ML**, and I look forward to contributing to groundbreaking advancements in these fields as I continue to learn, grow, and innovate.
