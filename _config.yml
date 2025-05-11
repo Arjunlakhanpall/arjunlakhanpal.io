@@ -1,5 +1,7 @@
 title: Arjun Lakhanpal
 logo: /arjun1.jpg  # Reference the image directly from the root folder
-description: AI/ML Engineer | Location: India, New Delhi 
+description: |
+  AI/ML Engineer | Location: India, New Delhi
+  "Success is the sum of small efforts, repeated day in and day out."
 
 theme: jekyll-theme-minimal
