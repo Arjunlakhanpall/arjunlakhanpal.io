@@ -13,8 +13,7 @@ My career focuses on leveraging **Python**, **JavaScript**, **Go**, and framewor
 📅 Aug 2022 – Feb 2026 | 🎯 GPA: 7.59/10
 
 My academic journey has equipped me with a strong foundation in both hardware and software domains.  
-The ECE curriculum honed my understanding of signal processing, embedded systems, and networking,  
-while the CS minor deepened my expertise in algorithms, and machine learning.
+The ECE curriculum honed my understanding of signal processing, embedded systems, and networking, while the CS minor deepened my expertise in algorithms, and machine learning.
 
 ## 💼 Experience
 
@@ -31,8 +30,7 @@ Contributed to AI research projects in education and healthcare by building robu
   - Real-time fluid level detection in saline bottles.
   - Integrated Raspberry Pi with sensors and Flask-based alert system.
   - Improved patient care by reducing manual monitoring.
-
-**Technologies**: Arduno, Python, OpenCV, Raspberry Pi, Flask
+- *Technologies*: Arduno, Python, OpenCV, Raspberry Pi, Flask
 ---
 
 ## 🛠️ Projects
@@ -45,7 +43,6 @@ Advanced image processing system to restore low-quality images using Haar Wavele
 ### 🔹 Iris Flower Classification  
 Supervised ML system to classify iris species using KNN, SVM, and Random Forest.  
 **Technologies**: Python, Scikit-learn, Pandas, Matplotlib  
-**Impact**: Foundation for research in ensemble learning and model stacking.
 
 ---
 
@@ -84,7 +81,7 @@ Utility for secure data sharing via scannable QR codes.
 
 ## 🧠 Skills & Technologies
 
-**Programming Languages**: Python, JavaScript, Java, SQL, Go  
+**Programming Languages**: Python, JavaScript, Java, SQL,   
 **ML/DL**: TensorFlow, PyTorch, Scikit-learn, XGBoost, Transformers  
 **Web & Backend**: Node.js, Flask, Django, Express.js, React.js  
 **Image Processing**: OpenCV, PIL  
