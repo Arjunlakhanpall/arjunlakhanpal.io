@@ -1,72 +1,103 @@
-# Welcome to My Page!
+## Welcome to My Profile!
 
-> "When something is important enough, you do it even if the odds are not in your favor." – Elon Musk
+> *"When something is important enough, you do it even if the odds are not in your favor."* – Elon Musk
 
-I’ve always been fascinated by the potential of AI and ML to revolutionize industries and improve everyday life. The ability to design systems that can learn, adapt, and solve complex problems is incredibly motivating for me. What excites me most about AI and ML is their vast scope, ranging from healthcare to autonomous vehicles, and the endless possibilities they offer for innovation. The challenge of creating algorithms that can interpret data, make predictions, and optimize processes aligns perfectly with my passion for problem-solving. I find immense satisfaction in working at the intersection of technology and human progress, where every breakthrough can contribute to shaping a smarter, more efficient future.
+I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine Learning (ML)** to solve real-world problems and drive innovation across industries like healthcare, autonomous systems, and high-energy physics. My work focuses on designing intelligent systems, optimizing algorithms, and building scalable solutions that bridge technology and human progress.
 
+---
 
 ## 🎓 Education
 **B.Tech in Electronics and Communication Engineering (Minor in Computer Science)**  
 *Bhagwan Parshuram Institute of Technology (BPIT), GGSIPU, Delhi*  
-Aug 2022 – Feb 2026 | GPA: 7.59/10
+📅 Aug 2022 – Feb 2026 | 🎯 GPA: 7.59/10  
 
-- Strong foundation in signal processing, embedded systems, networking, algorithms, and machine learning.
+- Gained expertise in signal processing, embedded systems, networking, algorithms, and machine learning.  
+- Developed a strong foundation in both hardware and software domains.
+
+---
 
 ## 💼 Experience
 **Intern – AICTE IDEA Lab**  
-New Delhi, India | June 2024 – Aug 2024
+📍 New Delhi, India | 📅 June 2024 – Aug 2024  
 
-- Designed machine learning pipelines for complex datasets.
-- Trained deep learning models for improved accuracy and efficiency.
-- Developed a **Saline Level Detector** using OpenCV and IoT.
+- Contributed to AI research projects in education and healthcare by developing robust ML pipelines and intelligent systems.  
+- **Key Contributions**:  
+  - Designed ML pipelines for preprocessing and analyzing complex datasets.  
+  - Trained deep learning models to optimize accuracy and efficiency.  
+  - Developed a **Saline Level Detector** using OpenCV and IoT:  
+    - Real-time fluid level detection in saline bottles.  
+    - Integrated Raspberry Pi with sensors and a Flask-based alert system.  
+    - Improved patient care by reducing manual monitoring.
+
+---
 
 ## 🛠️ Projects
-- **Particle Identification using CERN Open Data**  
-  *Python, Machine Learning, Neural Networks, Open Data*  
-  Used ML to classify particles from CERN datasets.
+### 🔹 Particle Identification using CERN Open Data
+- Utilized CERN Open Data to classify particles (electrons, muons, pions) using energy loss (dE/dx), calorimeter signatures, and ML-based techniques.  
+- Strengthened expertise in AI applications for high-energy physics.  
+- **Technologies**: Python, Machine Learning, Neural Networks, Open Data
 
-- **Image Enhancement and Denoising using Haar Wavelet Decomposition**  
-  *Python, OpenCV, NumPy*  
-  Restored low-quality images using wavelet transforms.
+### 🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition
+- Built an image processing system to restore low-quality images using Haar Wavelet Transform for denoising and enhancement.  
+- **Technologies**: Python, OpenCV, NumPy
 
-- **Iris Flower Classification**  
-  *Python, Scikit-learn, Pandas, Matplotlib*  
-  Compared KNN, SVM, and Random Forest for iris species prediction.
+### 🔹 Iris Flower Classification
+- Developed a supervised ML model to classify iris species (Setosa, Versicolor, Virginica) using KNN, SVM, and Random Forest.  
+- **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
 
-- **Invoice App**  
-  *JavaScript, Node.js, Express, MongoDB*  
-  Full-stack platform for invoicing, tax, and payment tracking.
+### 🔹 Invoice App
+- Created a full-stack invoicing platform for small businesses with tax calculation, client management, and payment tracking.  
+- **Technologies**: JavaScript, Node.js, Express, MongoDB
 
-- **Solana Blockchain Transaction**  
-  *Rust, Solana SDK*  
-  Blockchain-based invoicing and payment tracking.
+### 🔹 Solana Blockchain Transaction
+- Built a blockchain-based invoicing platform for secure client management and payment tracking.  
+- **Technologies**: Rust, Solana SDK
 
-- **GoRide – Cab Booking Platform**  
-  *JavaScript, Node.js, Handlebars, HTML, CSS*  
-  Real-time cab booking with fare calculation and secure payment.
+### 🔹 GoRide – Cab Booking Platform
+- Developed a web app for real-time cab booking with route mapping, fare calculation, and secure payment integration.  
+- **Technologies**: JavaScript, Node.js, Handlebars, HTML, CSS
+
+---
 
 ## 🔬 Research (In Progress)
-- Enhancing Iris Flower Classification with ensemble and deep learning.
-- Brain Tumor Detection using CNNs.
-- Predictive Maintenance in IIoT via anomaly detection.
+- **Iris Flower Classification**: Exploring ensemble learning and deep learning hybrids for improved accuracy.  
+- **Brain Tumor Detection**: Developing CNN-based models for early detection from medical scans.  
+- **Predictive Maintenance in IIoT**: Building anomaly detection models for sensor data to minimize machine downtime.
+
+---
 
 ## 🧠 Skills & Technologies
-- **Programming Languages:** Python, JavaScript, Java, SQL
-- **ML/DL:** TensorFlow, PyTorch, Scikit-learn, XGBoost, Transformers
-- **Web & Backend:** Node.js, Flask, Django, Express.js, React.js
-- **Image Processing:** OpenCV, PIL
-- **Tools & Platforms:** Docker, Git, Google Colab, GCP
-- **Specializations:** Generative AI, NLP, LLMs
-- **Environments:** Windows, Web
+- **Programming Languages**: Python, JavaScript, Java, SQL  
+- **ML/DL Frameworks**: TensorFlow, PyTorch, Scikit-learn, XGBoost, Transformers  
+- **Web & Backend**: Node.js, Flask, Django, Express.js, React.js  
+- **Image Processing**: OpenCV, PIL  
+- **Tools & Platforms**: Docker, Git, Google Colab, GCP  
+- **Specializations**: Generative AI (GenAI), Natural Language Processing (NLP), Large Language Models (LLMs)  
+- **Environments**: Windows, Web
+
+---
 
 ## 🏅 Certifications
-- **Neural Networks and Deep Learning** – Deeplearning.ai (Apr 2025, Expires Dec 2035)
-- **Building an AI-Powered Game** – Deeplearning.ai (Apr 2025, Expires Dec 2035)
-- **Open Source Models with Hugging Face** – Deeplearning.ai (Apr 2025)
-- **Machine Learning** – Udemy (May 2024)
-- **Machine Learning** – FreeCodeCamp (May 2024)
+- **Neural Networks and Deep Learning** – Deeplearning.ai (Apr 2025)  
+  *Skills*: AI, Deep Learning, Reinforcement Learning, Neural Networks  
+- **Building an AI-Powered Game** – Deeplearning.ai (Apr 2025)  
+  *Skills*: AI, Game Development, Reinforcement Learning  
+- **Open Source Models with Hugging Face** – Deeplearning.ai (Apr 2025)  
+  *Skills*: Open-Source Models, NLP, Audio Processing, Image & Multimodal Tasks  
+- **Machine Learning** – Udemy (May 2024)  
+  *Skills*: ML Algorithms, Data Processing, Model Evaluation  
+- **Machine Learning** – FreeCodeCamp (May 2024)  
+  *Skills*: ML, Data Science, Supervised & Unsupervised Learning  
+
+---
 
 ## 📬 Contact Me
-- **Email:** lakhanpxl.arjun@gmail.com
-- **LinkedIn:** [Arjun Lakhanpal](https://www.linkedin.com/in/arjunlakhanpall/)
-- **X (formerly Twitter):** [@Arjxnlakhanpxl](https://x.com/Arjxnlakhanpxl)
+I'm always excited to connect, collaborate, or discuss AI/ML innovations!  
+
+- **Email**: [lakhanpxl.arjun@gmail.com](mailto:lakhanpxl.arjun@gmail.com)  
+- **LinkedIn**: [Arjun Lakhanpal](https://www.linkedin.com/in/arjun-lakhanpal)  
+- **X**: [@Arjxnlakhanpxl](https://x.com/Arjxnlakhanpxl)  
+
+---
+
+*Let's build a smarter, more innovative future together!*
