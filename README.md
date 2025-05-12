@@ -1,6 +1,6 @@
 ## Welcome to My Profile!
 
-> *"When something is important enough, you do it even if the odds are not in your favor."* – Elon Musk
+>  *“Innovation distinguishes between a leader and a follower.” – Steve Jobs*
 
 I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine Learning (ML)** to solve real-world problems and drive innovation across industries like healthcare, autonomous systems, and high-energy physics. My work focuses on designing intelligent systems, optimizing algorithms, and building scalable solutions that bridge technology and human progress.
 
