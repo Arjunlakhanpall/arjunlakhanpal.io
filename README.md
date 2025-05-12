@@ -86,14 +86,17 @@ I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine L
   *Skills*: ML, Data Science, Supervised & Unsupervised Learning  
 
 ---
+## Contact Me
+I’m eager to discuss AI/ML opportunities, from job roles to innovative projects in healthcare and physics. Let’s connect!
 
-## 📬 Contact Me
-I'm always excited to connect, collaborate, or discuss AI/ML innovations!  
+- **Hire Me**: Interested in my AI/ML skills? Let’s talk about full-time or freelance roles.
+- **Email**: [lakhanpxl.arjun@gmail.com](mailto:lakhanpxl.arjun@gmail.com)
+- **LinkedIn**: [Arjun Lakhanpal](https://www.linkedin.com/in/arjunlakhanpal)
+- **X**: [@Arjxnlakhanpxl](https://x.com/Arjxnlakhanpxl)
+- **Resume**: [Download my resume (PDF)](/assets/resume.pdf)
+- **Book a Call**: Schedule a 15-minute chat to discuss jobs or projects via [Calendly](https://calendly.com/lakhanpxl-arjun).
 
-- **Email**: [lakhanpxl.arjun@gmail.com](mailto:lakhanpxl.arjun@gmail.com)  
-- **LinkedIn**: [Arjun Lakhanpal](https://www.linkedin.com/in/arjun-lakhanpal)  
-- **X**: [@Arjxnlakhanpxl](https://x.com/Arjxnlakhanpxl)  
-
+Reach out to collaborate on building smarter, impactful solutions!
 ---
 
 *Let's build a smarter, more innovative future together!*
