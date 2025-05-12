@@ -32,28 +32,24 @@ I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine L
 ---
 
 ## 🛠️ Projects
-### 🔹 Particle Identification using CERN Open Data
+###  Particle Identification using CERN Open Data
 - Utilized Open Data to classify particles (electrons, muons, pions) using energy loss (dE/dx), calorimeter signatures, and ML-based techniques.  
 - Strengthened expertise in AI applications for high-energy physics.  
 - **Technologies**: Python, Machine Learning, Neural Networks, Open Data
 
-### 🔹 Image Enhancement and Denoising using Haar Wavelet Decomposition
+###  Image Enhancement and Denoising using Haar Wavelet Decomposition
 - Built an image processing system to restore low-quality images using Haar Wavelet Transform for denoising and enhancement.  
 - **Technologies**: Python, OpenCV, NumPy
 
-### 🔹 Iris Flower Classification
+###  Iris Flower Classification
 - Developed a supervised ML model to classify iris species (Setosa, Versicolor, Virginica) using KNN, SVM, and Random Forest.  
 - **Technologies**: Python, Scikit-learn, Pandas, Matplotlib
 
-### 🔹 Invoice App
-- Created a full-stack invoicing platform for small businesses with tax calculation, client management, and payment tracking.  
-- **Technologies**: JavaScript, Node.js, Express, MongoDB
-
-### 🔹 Solana Blockchain Transaction
+###  Solana Blockchain Transaction
 - Built a blockchain-based invoicing platform for secure client management and payment tracking.  
 - **Technologies**: Rust, Solana SDK
 
-### 🔹 GoRide – Cab Booking Platform
+###  GoRide – Cab Booking Platform
 - Developed a web app for real-time cab booking with route mapping, fare calculation, and secure payment integration.  
 - **Technologies**: JavaScript, Node.js, Handlebars, HTML, CSS
 
