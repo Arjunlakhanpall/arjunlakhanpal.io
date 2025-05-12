@@ -89,7 +89,8 @@ I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine L
 ## Contact Me
 I’m eager to discuss AI/ML opportunities, from job roles to innovative projects in healthcare and physics. Let’s connect!
 
-- **Hire Me**: Interested in my AI/ML skills? Let’s talk about full-time or freelance roles.
+- **Hire Me**: Interested in my AI/ML skills?
+  Let’s talk about full-time or freelance roles.
 - **Email**: [lakhanpxl.arjun@gmail.com](mailto:lakhanpxl.arjun@gmail.com)
 - **LinkedIn**: [Arjun Lakhanpal](https://www.linkedin.com/in/arjunlakhanpal)
 - **X**: [@Arjxnlakhanpxl](https://x.com/Arjxnlakhanpxl)
