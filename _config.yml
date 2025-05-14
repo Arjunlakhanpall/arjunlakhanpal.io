@@ -1,5 +1,6 @@
-theme: jekyll-basically-basic
+
 title: Arjun Lakhanpal
+logo: /arjun1.jpg # Reference the image directly from the root folder
 description: AI/ML Engineer
-location: India, New Delhi
-logo: /arjun1.jpg
+Location: India, New Delhi
+theme: jekyll-theme-minimal 
