@@ -49,9 +49,10 @@ I'm passionate about leveraging **Artificial Intelligence (AI)** and **Machine L
 - Built a blockchain-based invoicing platform for secure client management and payment tracking.  
 - **Technologies**: Rust, Solana SDK
 
-###  GoRide – Cab Booking Platform
-- Developed a web app for real-time cab booking with route mapping, fare calculation, and secure payment integration.  
-- **Technologies**: JavaScript, Node.js, Handlebars, HTML, CSS
+### Human Emotion Identifier
+- Built a deep learning model using CNN to classify real-time human facial expressions into emotions like happy, sad, angry, etc.
+- Integrated webcam feed for live emotion detection using OpenCV.
+- **Technologies**: Python, TensorFlow, Keras, OpenCV
 
 ---
 
