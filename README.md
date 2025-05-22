@@ -95,7 +95,7 @@ I’m eager to discuss AI/ML opportunities, from job roles to innovative project
 - **Email**: [lakhanpxl.arjun@gmail.com](mailto:lakhanpxl.arjun@gmail.com)
 - **LinkedIn**: [Arjun Lakhanpal](https://www.linkedin.com/in/arjunlakhanpal)
 - **X**: [@Arjxnlakhanpxl](https://x.com/Arjxnlakhanpxl)
-- **Resume**: [Download my resume (PDF)](/assets/resume 2025.pdf)
+- **Resume**: [Download my resume (PDF)](assets/resume 2025.pdf)
 - **Book a Call**: Schedule a 15-minute chat to discuss jobs or projects via [Calendly](https://calendly.com/lakhanpxl-arjun).
 
 Reach out to collaborate on building smarter, impactful solutions!
