@@ -8,6 +8,7 @@ theme: jekyll-theme-minimal
 # GitHub Pages configuration
 baseurl: "/arjunlakhanpal.io"
 url: "https://arjunlakhanpall.github.io"
+repository: "Arjunlakhanpall/arjunlakhanpal.io"
 
 # Build settings
 markdown: kramdown
