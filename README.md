@@ -5,8 +5,8 @@
 ## 🎓 Education
 
 **B.Tech in Electronics and Communication Engineering (Minor in Computer Science)**  
-* GGSIPU, Delhi*  
-📅 Aug 2022 – Feb 2026 | 🎯 GPA: 7.59/10
+Guru Gobind Singh Indraprastha University | GGSIPU, Delhi*  
+📅 Aug 2022 – Feb 2026 | 🎯 GPA: 8.14/10
 
 ---
 
