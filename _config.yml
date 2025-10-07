@@ -2,6 +2,13 @@
 title: Arjun Lakhanpal
 logo: /arjun1.jpg # Reference the image directly from the root folder
 description: AI/ML Engineer
-Quote: >Innovation distinguishes between a leader and a follower
 Location: India, New Delhi
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
+
+# GitHub Pages configuration
+baseurl: "/arjunlakhanpal.io"
+url: "https://arjunlakhanpall.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge 
