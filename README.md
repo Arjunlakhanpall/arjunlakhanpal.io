@@ -5,19 +5,20 @@
 ## 🎓 Education
 
 **B.Tech in Electronics and Communication Engineering (Minor in Computer Science)**  
-*Bhagwan Parshuram Institute of Technology (BPIT), GGSIPU, Delhi*  
+*GGSIPU, Delhi*  
 📅 Aug 2022 – Feb 2026 | 🎯 GPA: 7.59/10
 
 ---
 
 ## 💼 Experience
 
-### Software Intern - Pocket FM
-📍 Bengaluru, Karnataka, India | 📅 Jul 2025 - Present (4 months) | 🔄 Hybrid
+### Software Intern - Pocket FM (GenAI Department)
+📍 Bengaluru, Karnataka, India | 📅 Jul 2025 - Present (4 months) | 🏢 On-site
 
-- Working on Continuous Integration and Continuous Delivery (CI/CD) pipelines
-- Contributing to software innovation and development projects
-- Gaining hands-on experience in modern software development practices
+- Working in the GenAI department on AI automation tools and solutions
+- Developing and implementing AI-powered automation systems for content management
+- Contributing to software innovation using advanced AI technologies
+- Gaining hands-on experience with cutting-edge AI automation tools
 
 ### Intern - AICTE IDEA Lab AJCE
 📍 Dwarka, Delhi, India | 📅 Jun 2024 - Aug 2024 (3 months) | 🏢 On-site
